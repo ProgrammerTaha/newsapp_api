@@ -28,6 +28,9 @@
 - id
 - name
 - avatar
+- email
+- password
+
 > `GET /~/api/authors` -> returns all authors
 
 > `GET /~/api/author/{id}` -> return the given author by id

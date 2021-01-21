@@ -47,7 +47,7 @@
 - id
 - title
 - author
-- Date Time
+- Date Written
 - content
 - [comments]
 - featuredImage
